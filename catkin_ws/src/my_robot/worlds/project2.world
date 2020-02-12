@@ -248,7 +248,7 @@
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
       </model>
-      <model name='my_robot'>
+      <!--<model name='my_robot'>
         <pose frame=''>5.2e-05 -0.003272 0.1 3e-06 0.000507 0.000919</pose>
         <scale>1 1 1</scale>
         <link name='left_wheel'>
@@ -269,7 +269,7 @@
           <acceleration>0.086243 -4.55366 10.5492 0.413346 0.7044 -0.056428</acceleration>
           <wrench>1.30226 -68.7602 159.292 0 -0 0</wrench>
         </link>
-      </model>
+      </model>-->
       <light name='sun'>
         <pose frame=''>0 0 10 0 -0 0</pose>
       </light>
